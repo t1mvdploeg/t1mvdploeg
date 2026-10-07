@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 176" role="img" aria-labelledby="t">
+<title id="t">Scrollback: Saved social posts become a knowledge base for your own projects.</title>
+<rect x=".5" y=".5" width="439" height="175" rx="12" fill="#111317" stroke="#2b3038"/>
+<text x="30" y="56" style="font:600 28px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:-.6px" fill="#f3f5fa">Scrollback<tspan fill="#2457f5">.</tspan></text>
+<path d="M397 45l11-11m-8 0h8v8" fill="none" stroke="#88aaff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="90" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" fill="#aab1bd">Saved social posts become a knowledge base for</text><text x="30" y="113" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" fill="#aab1bd">your own projects.</text>
+<text x="30" y="150" style="font:500 12.5px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#88aaff">Python · Claude Code · Whisper</text>
+</svg>
